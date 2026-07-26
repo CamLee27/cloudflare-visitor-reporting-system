@@ -541,3 +541,9 @@ Potential future improvements include:
 This project is intended for traffic analysis and security monitoring on websites controlled by the operator.
 
 It should not be used to claim that an IP address proves the identity or exact physical location of a visitor.
+
+
+## Development Note
+
+This project was implemented and customized with AI-assisted code generation. I configured the cloud services, defined the system requirements, deployed and tested the Worker, troubleshot integration issues, customized the reporting behavior, and documented the final architecture.
+
