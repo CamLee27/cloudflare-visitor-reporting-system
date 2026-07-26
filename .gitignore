@@ -1,0 +1,17 @@
+# Environment variables and secrets
+.env
+.env.local
+.dev.vars
+
+# Cloudflare local configuration
+.wrangler/
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Operating-system files
+.DS_Store
+Thumbs.db
